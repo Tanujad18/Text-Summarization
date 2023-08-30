@@ -1,0 +1,6 @@
+# Text-Summarization
+To create a text summarizer that summarizes reviews posted by people about the academic course on Coursera. The aim will be to make a summary without changing the meaning of the review given.
+This project involves the development of a text summarization tool specifically designed to condense reviews shared by individuals concerning academic courses on the Coursera platform. The primary objective is to create concise summaries that retain the original review's essence and significance. The project employs the LSTM (Long Short-Term Memory) technique, a prominent approach in deep learning, to achieve this goal. The completion of this project underscores my engagement with deep learning methodologies.
+Automatic text summarization is the task of producing a concise and fluent summary while preserving key information content and overall meaning.
+2 different approaches to achieve this are : extractive and abstractive. The method that is tried to be implemented here is the Abstractive Summarization. 
+Abstractive Summarization- Abstractive summarizers do not select sentences from the originally given text passage to create the summary. Instead, they produce  new phrases of the main contents of the given text, using a vocabulary set different from the original document. This is very similar to what we as humans do, to summarize. 
